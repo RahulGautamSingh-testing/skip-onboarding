@@ -1,5 +1,5 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json-modified",
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "local>RahulGautamSingh-testing/renovate-config"
   ]
